@@ -22,7 +22,7 @@
 #include "cg_utils.h"
  
 // Number of modes to list per line.
-#define MODES_PER_LINE 3
+#define MODES_PER_LINE 1
 
 // I have written an alternate list routine that spits out WAY more info
 // #define LIST_DEBUG 1
